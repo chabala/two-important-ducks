@@ -1,9 +1,11 @@
-# [Two Important Ducks](https://chabala.github.io/two-important-ducks/)
+# [two-important-ducks](https://chabala.github.io/two-important-ducks/)
 
 <div style="text-align: right">
 <a href="https://github.com/chabala/two-important-ducks/">GitHub repository for this page</a> /
 <a href="https://chabala.github.io/">Up to the root page</a>
 </div>
+
+## Two Important Ducks
 
 Some of the popular anecdotes in software development circles have very little
 to do with software; they're about people, and are broadly applicable. I want
@@ -137,7 +139,7 @@ writing because one knows the audience will not be as familiar with the subject
 as the author.
 
 <a id="note-1"></a>
-**Note&ast;** This is unlikely to be the origin of the term. The LiveJournal
+**Note:** This is unlikely to be the origin of the term. The LiveJournal
 post is dated 2012, and the commonly cited origin is "The Pragmatic
 Programmer", circa 1999, which has a section titled 'Rubber Ducking', and cites
 the firsthand experience of one of the authors interacting with a developer who
@@ -179,7 +181,8 @@ greater exposure:
 > a change to everything that was done. The assumption was that subconsciously
 > they felt that if they didn't, they weren't adding value.
 >
-> The artist working on the queen animations for Battle Chess was aware of
+> The artist working on the queen animations for [Battle Chess](
+> https://en.wikipedia.org/wiki/Battle_Chess) was aware of
 > this tendency, and came up with an innovative solution. He did the animations
 > for the queen the way that he felt would be best, with one addition: he gave
 > the queen a pet duck. He animated this duck through all of the queen's
